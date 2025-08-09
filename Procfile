@@ -1,1 +1,1 @@
-worker: python tiktok.py
+web: python tiktok.py
